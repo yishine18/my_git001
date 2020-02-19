@@ -1,3 +1,5 @@
+print("this is origin my_git001 dir ,push to github test")
+
 print("this is merged file in branch master")
 
 print("this is change to branch master,01")
