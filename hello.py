@@ -1,3 +1,6 @@
+
+print("begin push to remote github002")
+
 print("begin push to remote github001")
 
 print("this is merged file in branch master")
