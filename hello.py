@@ -1,4 +1,5 @@
 
+print("ssh_ test ,no passward")
 print("begin push to remote github002")
 
 print("this is origin my_git001 dir ,push to github test")
